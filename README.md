@@ -2,23 +2,25 @@
 
 `This project is a Weather Dashboard application that fetches and displays weather information using the OpenWeatherMap API. It consists of components for current weather display, daily forecast, and city search functionality.`
 
-`Project Structure`
 
-`|-- public/`
+Project Structure
 
-`|-- src/`
 
-    `|-- components/`
+|-- public/
 
-        `|-- search/`
+|-- src/
 
-            `|-- Search.js`
+    |-- components/
 
-            `|-- Search.css`
+        |-- search/
 
-        `|-- forecast/`
+            |-- Search.js
 
-            `|-- Forecast.js`
+            |-- Search.css
+
+        |-- forecast/
+
+            |-- Forecast.js
 
             `|-- Forecast.css`
 
