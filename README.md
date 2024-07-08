@@ -9,7 +9,7 @@
     `|-- components/`
         `|-- search/`
             `|-- Search.js`
-            `|-- Search.css'
+            `|-- Search.css`
         `|-- forecast/`
             `|-- Forecast.js`
             `|-- Forecast.css`
@@ -27,22 +27,28 @@
 Clone the repository:
 
 `git clone https://github.com/your-username/repository.git`
+
 `cd Weather-Dashboard`
+
 `npm install`
+
 `npm start`
 
-`Open http://localhost:3000 in your browser to view the Weather Dashboard.`
+
+Open `http://localhost:3000` in your browser to view the Weather Dashboard.
+
 
 `Usage:`
 
-`City Search: Use the search input to find weather information for a specific city.`
-`Current Weather: Displays current weather details including temperature, description, and additional parameters.`
-`Daily Forecast: Shows a 7-day forecast with details for each day including weather icons, temperature range, and additional weather parameters.`
+City Search: Use the search input to find weather information for a specific city.
+Current Weather: Displays current weather details including temperature, description, and additional parameters.
+Daily Forecast: Shows a 7-day forecast with details for each day including weather icons, temperature range, and additional weather parameters.
 
 `Additional Notes:`
-`This project uses React for building the user interface.
+
+This project uses React for building the user interface.
 Weather icons are sourced from the OpenWeatherMap API and displayed dynamically based on weather conditions.
-Ensure that API requests are made securely and that sensitive information such as API keys are stored safely.`
+Ensure that API requests are made securely and that sensitive information such as API keys are stored safely.
 
 
 ![image](https://github.com/Shaquibcode01/Weather-Dashboard/assets/119671108/92c6680a-1968-40c6-8278-15a5fa809dd3)
