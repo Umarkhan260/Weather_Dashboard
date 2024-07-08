@@ -3,7 +3,9 @@
 `This project is a Weather Dashboard application that fetches and displays weather information using the OpenWeatherMap API. It consists of components for current weather display, daily forecast, and city search functionality.`
 
 
-Project Structure
+
+
+`Project Structure`
 
 
 |-- public/
@@ -22,25 +24,25 @@ Project Structure
 
             |-- Forecast.js
 
-            `|-- Forecast.css`
+            |-- Forecast.css
 
-        `|-- current-weather/`
+        |-- current-weather/
 
-            `|-- CurrentWeather.js`
+            |-- CurrentWeather.js
 
-            `|-- CurrentWeather.css`
+            |-- CurrentWeather.css
 
-    `|-- api.js`
+    |-- api.js
 
-    `|-- App.js`
+    |-- App.js
 
-    `|-- App.css`
+    |-- App.css
 
-    `|-- index.js`
+    |-- index.js
 
-`|-- README.md`
+|-- README.md
 
-`|-- package.json`
+|-- package.json
 
 
 
