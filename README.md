@@ -1,14 +1,14 @@
-Weather Dashboard
+`Weather Dashboard`
 
-This project is a Weather Dashboard application that fetches and displays weather information using the OpenWeatherMap API. It consists of components for current weather display, daily forecast, and city search functionality.
+`This project is a Weather Dashboard application that fetches and displays weather information using the OpenWeatherMap API. It consists of components for current weather display, daily forecast, and city search functionality.`
 
-Project Structure
+`Project Structure`
 
-|-- public/
-|-- src/
-    |-- components/
-        |-- search/
-            |-- Search.js
+`|-- public/`
+`|-- src/`
+    `|-- components/`
+        `|-- search/`
+            `|-- Search.js`
             |-- Search.css
         |-- forecast/
             |-- Forecast.js
@@ -41,10 +41,10 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/Weather-Dashboard.git
-cd Weather-Dashboard
-npm install
-npm start
+`git clone https://github.com/your-username/repository.git`
+`cd Weather-Dashboard`
+`npm install`
+`npm start`
 
 Open http://localhost:3000 in your browser to view the Weather Dashboard.
 
