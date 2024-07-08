@@ -5,23 +5,41 @@
 `Project Structure`
 
 `|-- public/`
+
 `|-- src/`
+
     `|-- components/`
+
         `|-- search/`
+
             `|-- Search.js`
+
             `|-- Search.css`
+
         `|-- forecast/`
+
             `|-- Forecast.js`
+
             `|-- Forecast.css`
+
         `|-- current-weather/`
+
             `|-- CurrentWeather.js`
+
             `|-- CurrentWeather.css`
+
     `|-- api.js`
+
     `|-- App.js`
+
     `|-- App.css`
+
     `|-- index.js`
+
 `|-- README.md`
+
 `|-- package.json`
+
 
 
 Clone the repository:
@@ -40,11 +58,14 @@ Open `http://localhost:3000` in your browser to view the Weather Dashboard.
 
 `Usage:`
 
+
 City Search: Use the search input to find weather information for a specific city.
 Current Weather: Displays current weather details including temperature, description, and additional parameters.
 Daily Forecast: Shows a 7-day forecast with details for each day including weather icons, temperature range, and additional weather parameters.
 
+
 `Additional Notes:`
+
 
 This project uses React for building the user interface.
 Weather icons are sourced from the OpenWeatherMap API and displayed dynamically based on weather conditions.
