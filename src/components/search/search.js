@@ -2,7 +2,7 @@ import { useState } from "react";
 import { AsyncPaginate } from "react-select-async-paginate";
 
 const API_KEY = '8d2a110b6ad468ae1a0e459757cf659d';
-const API_URL = 'http://api.openweathermap.org/data/2.5/weather';
+const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 const Search = ({ onSearchChange }) => {
   const [search, setSearch] = useState(null);
@@ -15,6 +15,7 @@ const Search = ({ onSearchChange }) => {
       const responseData = await response.json();
 
       if (responseData.cod !== 200) {
+        
         throw new Error(responseData.message);
       }
 
